@@ -1,3 +1,12 @@
 Midnight commander
-vi copy paste
+
+vi 
+copy paste 
 python
+
+
+
+for i in 'hello world':
+    print(i*2, end='')
+
+hheelllloo wwoorrlldd
